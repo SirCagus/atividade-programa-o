@@ -4,7 +4,7 @@
 }
 /* Chamar o corpo */
 body{
-    background-color: var(--CorDoSite);
+    background-color: var(--CorDoSite); /*<-- Chamar a variável de cor */
 }
 /* Chamar a imagem */
 img{
