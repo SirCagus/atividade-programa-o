@@ -1,7 +1,12 @@
-body{
-    background-color: rgb(173,173,173);
+/* Variáveis */
+:root{
+    --CorDoSite: rgb(173, 173, 173);
 }
-
+/* Chamar o corpo */
+body{
+    background-color: var(--CorDoSite);
+}
+/* Chamar a imagem */
 img{
     width: 20%;
 }
