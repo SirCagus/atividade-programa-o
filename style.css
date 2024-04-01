@@ -25,5 +25,6 @@ section{
 
 .creators{
     display: block;
-margin: 0 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
