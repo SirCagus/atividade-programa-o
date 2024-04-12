@@ -55,7 +55,9 @@ section{
 }
 
 .BotaoEquipe{
-    
+    font-size: 45px;
+    padding: 5px;
+    margin: 100px;
 }
 
 footer{
