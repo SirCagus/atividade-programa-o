@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 /* Variáveis */
 :root{
     --CorDoSite: rgb(173, 173, 173);
@@ -58,6 +62,7 @@ section{
     font-size: 45px;
     padding: 5px;
     margin: 100px;
+    border-style: groove;
 }
 
 footer{
