@@ -13,7 +13,8 @@ img{
 
 header{    
     display: flex;
-    align-items: center;}
+    align-items: center;
+    padding: 25px;}
 
 section{
         display:flex;
