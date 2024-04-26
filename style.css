@@ -89,5 +89,6 @@ footer {
 .equipe1 {
     border-style: solid;
     border-radius: 10px;
-    margin:20px;
+    margin-right:85px;
+    margin-left: 85px;
 }
