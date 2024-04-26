@@ -81,3 +81,23 @@ footer {
     color: rgb(255, 255, 255);
     padding: 15px;
 }
+
+.equipe {
+    width:137%;
+    display: flex;
+}
+
+.equipe1 {
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.equipe2 {
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.equipe3 {
+    border-style: solid;
+    border-radius: 10px;
+}
